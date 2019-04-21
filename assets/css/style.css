@@ -1,0 +1,22 @@
+.row {
+    background: rgba(255, 255, 255, 0.6);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.container {
+    margin-bottom: 120px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.card-header {
+    background-color: rgb(117, 114, 114);
+    color: white;
+    padding: 3px;
+    font-weight: bold;
+}
+
+#center {
+    text-align: center;
+}
